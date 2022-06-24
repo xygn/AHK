@@ -6,10 +6,6 @@ t::
 	Send, /tableview {Enter}
 return
 	
-
-
-
-
 <!/:: listener()
 
 ; New Tab
